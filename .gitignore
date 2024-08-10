@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+*.env
+.DS_Store
+.vscode/
+data/extracted_articles_boilerpy/
+data/output/
